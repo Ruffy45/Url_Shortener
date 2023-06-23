@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ruffy45/Url_Shortener/static/css/main.15c30ba3.css",
+    "main.js": "/Ruffy45/Url_Shortener/static/js/main.7345fd20.js",
+    "static/js/787.c2988ec0.chunk.js": "/Ruffy45/Url_Shortener/static/js/787.c2988ec0.chunk.js",
+    "index.html": "/Ruffy45/Url_Shortener/index.html",
+    "main.15c30ba3.css.map": "/Ruffy45/Url_Shortener/static/css/main.15c30ba3.css.map",
+    "main.7345fd20.js.map": "/Ruffy45/Url_Shortener/static/js/main.7345fd20.js.map",
+    "787.c2988ec0.chunk.js.map": "/Ruffy45/Url_Shortener/static/js/787.c2988ec0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15c30ba3.css",
+    "static/js/main.7345fd20.js"
+  ]
+}
